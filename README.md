@@ -2,8 +2,11 @@
 
 Proyecto del curso de **Responsive Web Design** de freeCodeCamp. Menú simple para una cafetería hecho solo con HTML y CSS.
 
+🔗 **Repositorio:** https://github.com/MauriGallero/Menu_coffee_shop/tree/main
+
 ### 🚀 Demo
-Este es el resultado final del proyecto Cafe Menu.
+Podés ver el proyecto clonando el repo y abriendo `index.html`, o si activás GitHub Pages va a quedar en:
+`https://maurigallero.github.io/Menu_coffee_shop/`
 
 ### 🛠️ Tecnologías usadas
 - HTML5
@@ -27,8 +30,8 @@ Este es el resultado final del proyecto Cafe Menu.
 
 
 ### ▶️ Cómo verlo
-1. Cloná el repo
+1. Cloná el repo: `git clone https://github.com/MauriGallero/Menu_coffee_shop.git`
 2. Abrí `index.html` en tu navegador
 
 ---
-Hecho como parte de mi progreso en freeCodeCamp - CSS 99/1234 -> completado.
+Hecho como parte de mi progreso en freeCodeCamp - CSS Module.
